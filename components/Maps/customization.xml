@@ -1,0 +1,6535 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <0>
+  <tags>country</tags>
+  <elements>geometry.fill</elements>
+  <stylers>
+    <color>#85abad</color>
+  </stylers>
+  <stylers>
+    <zoom>0</zoom>
+    <opacity>0.8</opacity>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <opacity>0.8</opacity>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <opacity>0.8</opacity>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <opacity>0.8</opacity>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <opacity>0.8</opacity>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <opacity>1</opacity>
+  </stylers>
+</0>
+<1>
+<tags>country</tags>
+<elements>geometry.outline</elements>
+<stylers>
+  <color>#c8cfd0</color>
+</stylers>
+<stylers>
+  <zoom>0</zoom>
+  <opacity>0.15</opacity>
+</stylers>
+<stylers>
+  <zoom>1</zoom>
+  <opacity>0.15</opacity>
+</stylers>
+<stylers>
+  <zoom>2</zoom>
+  <opacity>0.15</opacity>
+</stylers>
+<stylers>
+  <zoom>3</zoom>
+  <opacity>0.15</opacity>
+</stylers>
+<stylers>
+  <zoom>4</zoom>
+  <opacity>0.15</opacity>
+</stylers>
+<stylers>
+  <zoom>5</zoom>
+  <opacity>0.15</opacity>
+</stylers>
+<stylers>
+  <zoom>6</zoom>
+  <opacity>0.25</opacity>
+</stylers>
+<stylers>
+  <zoom>7</zoom>
+  <opacity>0.5</opacity>
+</stylers>
+<stylers>
+  <zoom>8</zoom>
+  <opacity>0.47</opacity>
+</stylers>
+<stylers>
+  <zoom>9</zoom>
+  <opacity>0.44</opacity>
+</stylers>
+<stylers>
+  <zoom>10</zoom>
+  <opacity>0.41</opacity>
+</stylers>
+<stylers>
+  <zoom>11</zoom>
+  <opacity>0.38</opacity>
+</stylers>
+<stylers>
+  <zoom>12</zoom>
+  <opacity>0.35</opacity>
+</stylers>
+<stylers>
+  <zoom>13</zoom>
+  <opacity>0.33</opacity>
+</stylers>
+<stylers>
+  <zoom>14</zoom>
+  <opacity>0.3</opacity>
+</stylers>
+<stylers>
+  <zoom>15</zoom>
+  <opacity>0.28</opacity>
+</stylers>
+<stylers>
+  <zoom>16</zoom>
+  <opacity>0.25</opacity>
+</stylers>
+<stylers>
+  <zoom>17</zoom>
+  <opacity>0.25</opacity>
+</stylers>
+<stylers>
+  <zoom>18</zoom>
+  <opacity>0.25</opacity>
+</stylers>
+<stylers>
+  <zoom>19</zoom>
+  <opacity>0.25</opacity>
+</stylers>
+<stylers>
+  <zoom>20</zoom>
+  <opacity>0.25</opacity>
+</stylers>
+<stylers>
+  <zoom>21</zoom>
+  <opacity>0.25</opacity>
+</stylers>
+</1>
+<2>
+<tags>region</tags>
+<elements>geometry.fill</elements>
+<stylers>
+  <zoom>0</zoom>
+  <color>#a3c0c2</color>
+  <opacity>0.5</opacity>
+</stylers>
+<stylers>
+  <zoom>1</zoom>
+  <color>#a3c0c2</color>
+  <opacity>0.5</opacity>
+</stylers>
+<stylers>
+  <zoom>2</zoom>
+  <color>#a3c0c2</color>
+  <opacity>0.5</opacity>
+</stylers>
+<stylers>
+  <zoom>3</zoom>
+  <color>#a3c0c2</color>
+  <opacity>0.5</opacity>
+</stylers>
+<stylers>
+  <zoom>4</zoom>
+  <color>#a3c0c2</color>
+  <opacity>0.5</opacity>
+</stylers>
+<stylers>
+  <zoom>5</zoom>
+  <color>#a3c0c2</color>
+  <opacity>0.5</opacity>
+</stylers>
+<stylers>
+  <zoom>6</zoom>
+  <color>#a3c0c2</color>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>7</zoom>
+  <color>#a3c0c2</color>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>8</zoom>
+  <color>#85abad</color>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>9</zoom>
+  <color>#85abad</color>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>10</zoom>
+  <color>#85abad</color>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>11</zoom>
+  <color>#85abad</color>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>12</zoom>
+  <color>#85abad</color>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>13</zoom>
+  <color>#85abad</color>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>14</zoom>
+  <color>#85abad</color>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>15</zoom>
+  <color>#85abad</color>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>16</zoom>
+  <color>#85abad</color>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>17</zoom>
+  <color>#85abad</color>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>18</zoom>
+  <color>#85abad</color>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>19</zoom>
+  <color>#85abad</color>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>20</zoom>
+  <color>#85abad</color>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>21</zoom>
+  <color>#85abad</color>
+  <opacity>1</opacity>
+</stylers>
+</2>
+<3>
+<tags>region</tags>
+<elements>geometry.outline</elements>
+<stylers>
+  <color>#c8cfd0</color>
+</stylers>
+<stylers>
+  <zoom>0</zoom>
+  <opacity>0.15</opacity>
+</stylers>
+<stylers>
+  <zoom>1</zoom>
+  <opacity>0.15</opacity>
+</stylers>
+<stylers>
+  <zoom>2</zoom>
+  <opacity>0.15</opacity>
+</stylers>
+<stylers>
+  <zoom>3</zoom>
+  <opacity>0.15</opacity>
+</stylers>
+<stylers>
+  <zoom>4</zoom>
+  <opacity>0.15</opacity>
+</stylers>
+<stylers>
+  <zoom>5</zoom>
+  <opacity>0.15</opacity>
+</stylers>
+<stylers>
+  <zoom>6</zoom>
+  <opacity>0.25</opacity>
+</stylers>
+<stylers>
+  <zoom>7</zoom>
+  <opacity>0.5</opacity>
+</stylers>
+<stylers>
+  <zoom>8</zoom>
+  <opacity>0.47</opacity>
+</stylers>
+<stylers>
+  <zoom>9</zoom>
+  <opacity>0.44</opacity>
+</stylers>
+<stylers>
+  <zoom>10</zoom>
+  <opacity>0.41</opacity>
+</stylers>
+<stylers>
+  <zoom>11</zoom>
+  <opacity>0.38</opacity>
+</stylers>
+<stylers>
+  <zoom>12</zoom>
+  <opacity>0.35</opacity>
+</stylers>
+<stylers>
+  <zoom>13</zoom>
+  <opacity>0.33</opacity>
+</stylers>
+<stylers>
+  <zoom>14</zoom>
+  <opacity>0.3</opacity>
+</stylers>
+<stylers>
+  <zoom>15</zoom>
+  <opacity>0.28</opacity>
+</stylers>
+<stylers>
+  <zoom>16</zoom>
+  <opacity>0.25</opacity>
+</stylers>
+<stylers>
+  <zoom>17</zoom>
+  <opacity>0.25</opacity>
+</stylers>
+<stylers>
+  <zoom>18</zoom>
+  <opacity>0.25</opacity>
+</stylers>
+<stylers>
+  <zoom>19</zoom>
+  <opacity>0.25</opacity>
+</stylers>
+<stylers>
+  <zoom>20</zoom>
+  <opacity>0.25</opacity>
+</stylers>
+<stylers>
+  <zoom>21</zoom>
+  <opacity>0.25</opacity>
+</stylers>
+</3>
+<4>
+<tags>
+  <any>admin</any>
+  <none>country</none>
+  <none>region</none>
+  <none>locality</none>
+  <none>district</none>
+  <none>address</none>
+</tags>
+<elements>geometry.fill</elements>
+<stylers>
+  <color>#85abad</color>
+</stylers>
+<stylers>
+  <zoom>0</zoom>
+  <opacity>0.5</opacity>
+</stylers>
+<stylers>
+  <zoom>1</zoom>
+  <opacity>0.5</opacity>
+</stylers>
+<stylers>
+  <zoom>2</zoom>
+  <opacity>0.5</opacity>
+</stylers>
+<stylers>
+  <zoom>3</zoom>
+  <opacity>0.5</opacity>
+</stylers>
+<stylers>
+  <zoom>4</zoom>
+  <opacity>0.5</opacity>
+</stylers>
+<stylers>
+  <zoom>5</zoom>
+  <opacity>0.5</opacity>
+</stylers>
+<stylers>
+  <zoom>6</zoom>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>7</zoom>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>8</zoom>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>9</zoom>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>10</zoom>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>11</zoom>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>12</zoom>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>13</zoom>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>14</zoom>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>15</zoom>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>16</zoom>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>17</zoom>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>18</zoom>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>19</zoom>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>20</zoom>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>21</zoom>
+  <opacity>1</opacity>
+</stylers>
+</4>
+<5>
+<tags>
+  <any>admin</any>
+  <none>country</none>
+  <none>region</none>
+  <none>locality</none>
+  <none>district</none>
+  <none>address</none>
+</tags>
+<elements>geometry.outline</elements>
+<stylers>
+  <color>#c8cfd0</color>
+</stylers>
+<stylers>
+  <zoom>0</zoom>
+  <opacity>0.15</opacity>
+</stylers>
+<stylers>
+  <zoom>1</zoom>
+  <opacity>0.15</opacity>
+</stylers>
+<stylers>
+  <zoom>2</zoom>
+  <opacity>0.15</opacity>
+</stylers>
+<stylers>
+  <zoom>3</zoom>
+  <opacity>0.15</opacity>
+</stylers>
+<stylers>
+  <zoom>4</zoom>
+  <opacity>0.15</opacity>
+</stylers>
+<stylers>
+  <zoom>5</zoom>
+  <opacity>0.15</opacity>
+</stylers>
+<stylers>
+  <zoom>6</zoom>
+  <opacity>0.25</opacity>
+</stylers>
+<stylers>
+  <zoom>7</zoom>
+  <opacity>0.5</opacity>
+</stylers>
+<stylers>
+  <zoom>8</zoom>
+  <opacity>0.47</opacity>
+</stylers>
+<stylers>
+  <zoom>9</zoom>
+  <opacity>0.44</opacity>
+</stylers>
+<stylers>
+  <zoom>10</zoom>
+  <opacity>0.41</opacity>
+</stylers>
+<stylers>
+  <zoom>11</zoom>
+  <opacity>0.38</opacity>
+</stylers>
+<stylers>
+  <zoom>12</zoom>
+  <opacity>0.35</opacity>
+</stylers>
+<stylers>
+  <zoom>13</zoom>
+  <opacity>0.33</opacity>
+</stylers>
+<stylers>
+  <zoom>14</zoom>
+  <opacity>0.3</opacity>
+</stylers>
+<stylers>
+  <zoom>15</zoom>
+  <opacity>0.28</opacity>
+</stylers>
+<stylers>
+  <zoom>16</zoom>
+  <opacity>0.25</opacity>
+</stylers>
+<stylers>
+  <zoom>17</zoom>
+  <opacity>0.25</opacity>
+</stylers>
+<stylers>
+  <zoom>18</zoom>
+  <opacity>0.25</opacity>
+</stylers>
+<stylers>
+  <zoom>19</zoom>
+  <opacity>0.25</opacity>
+</stylers>
+<stylers>
+  <zoom>20</zoom>
+  <opacity>0.25</opacity>
+</stylers>
+<stylers>
+  <zoom>21</zoom>
+  <opacity>0.25</opacity>
+</stylers>
+</5>
+<6>
+<tags>
+  <any>landcover</any>
+  <none>vegetation</none>
+</tags>
+<stylers>
+  <hue>#cdd4d5</hue>
+</stylers>
+</6>
+<7>
+<tags>vegetation</tags>
+<elements>geometry</elements>
+<stylers>
+  <zoom>0</zoom>
+  <color>#b1bdbe</color>
+  <opacity>0.1</opacity>
+</stylers>
+<stylers>
+  <zoom>1</zoom>
+  <color>#b1bdbe</color>
+  <opacity>0.1</opacity>
+</stylers>
+<stylers>
+  <zoom>2</zoom>
+  <color>#b1bdbe</color>
+  <opacity>0.1</opacity>
+</stylers>
+<stylers>
+  <zoom>3</zoom>
+  <color>#b1bdbe</color>
+  <opacity>0.1</opacity>
+</stylers>
+<stylers>
+  <zoom>4</zoom>
+  <color>#b1bdbe</color>
+  <opacity>0.1</opacity>
+</stylers>
+<stylers>
+  <zoom>5</zoom>
+  <color>#b1bdbe</color>
+  <opacity>0.1</opacity>
+</stylers>
+<stylers>
+  <zoom>6</zoom>
+  <color>#b1bdbe</color>
+  <opacity>0.2</opacity>
+</stylers>
+<stylers>
+  <zoom>7</zoom>
+  <color>#cdd4d5</color>
+  <opacity>0.3</opacity>
+</stylers>
+<stylers>
+  <zoom>8</zoom>
+  <color>#cdd4d5</color>
+  <opacity>0.4</opacity>
+</stylers>
+<stylers>
+  <zoom>9</zoom>
+  <color>#cdd4d5</color>
+  <opacity>0.6</opacity>
+</stylers>
+<stylers>
+  <zoom>10</zoom>
+  <color>#cdd4d5</color>
+  <opacity>0.8</opacity>
+</stylers>
+<stylers>
+  <zoom>11</zoom>
+  <color>#cdd4d5</color>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>12</zoom>
+  <color>#cdd4d5</color>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>13</zoom>
+  <color>#cdd4d5</color>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>14</zoom>
+  <color>#d2d9da</color>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>15</zoom>
+  <color>#d8dedf</color>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>16</zoom>
+  <color>#d8dedf</color>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>17</zoom>
+  <color>#d8dedf</color>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>18</zoom>
+  <color>#d8dedf</color>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>19</zoom>
+  <color>#d8dedf</color>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>20</zoom>
+  <color>#d8dedf</color>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>21</zoom>
+  <color>#d8dedf</color>
+  <opacity>1</opacity>
+</stylers>
+</7>
+<8>
+<tags>park</tags>
+<elements>geometry</elements>
+<stylers>
+  <zoom>0</zoom>
+  <color>#cdd4d5</color>
+  <opacity>0.1</opacity>
+</stylers>
+<stylers>
+  <zoom>1</zoom>
+  <color>#cdd4d5</color>
+  <opacity>0.1</opacity>
+</stylers>
+<stylers>
+  <zoom>2</zoom>
+  <color>#cdd4d5</color>
+  <opacity>0.1</opacity>
+</stylers>
+<stylers>
+  <zoom>3</zoom>
+  <color>#cdd4d5</color>
+  <opacity>0.1</opacity>
+</stylers>
+<stylers>
+  <zoom>4</zoom>
+  <color>#cdd4d5</color>
+  <opacity>0.1</opacity>
+</stylers>
+<stylers>
+  <zoom>5</zoom>
+  <color>#cdd4d5</color>
+  <opacity>0.1</opacity>
+</stylers>
+<stylers>
+  <zoom>6</zoom>
+  <color>#cdd4d5</color>
+  <opacity>0.2</opacity>
+</stylers>
+<stylers>
+  <zoom>7</zoom>
+  <color>#cdd4d5</color>
+  <opacity>0.3</opacity>
+</stylers>
+<stylers>
+  <zoom>8</zoom>
+  <color>#cdd4d5</color>
+  <opacity>0.4</opacity>
+</stylers>
+<stylers>
+  <zoom>9</zoom>
+  <color>#cdd4d5</color>
+  <opacity>0.6</opacity>
+</stylers>
+<stylers>
+  <zoom>10</zoom>
+  <color>#cdd4d5</color>
+  <opacity>0.8</opacity>
+</stylers>
+<stylers>
+  <zoom>11</zoom>
+  <color>#cdd4d5</color>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>12</zoom>
+  <color>#cdd4d5</color>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>13</zoom>
+  <color>#cdd4d5</color>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>14</zoom>
+  <color>#d2d9da</color>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>15</zoom>
+  <color>#d8dedf</color>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>16</zoom>
+  <color>#d8dedf</color>
+  <opacity>0.9</opacity>
+</stylers>
+<stylers>
+  <zoom>17</zoom>
+  <color>#d8dedf</color>
+  <opacity>0.8</opacity>
+</stylers>
+<stylers>
+  <zoom>18</zoom>
+  <color>#d8dedf</color>
+  <opacity>0.7</opacity>
+</stylers>
+<stylers>
+  <zoom>19</zoom>
+  <color>#d8dedf</color>
+  <opacity>0.7</opacity>
+</stylers>
+<stylers>
+  <zoom>20</zoom>
+  <color>#d8dedf</color>
+  <opacity>0.7</opacity>
+</stylers>
+<stylers>
+  <zoom>21</zoom>
+  <color>#d8dedf</color>
+  <opacity>0.7</opacity>
+</stylers>
+</8>
+<9>
+<tags>national_park</tags>
+<elements>geometry</elements>
+<stylers>
+  <zoom>0</zoom>
+  <color>#cdd4d5</color>
+  <opacity>0.1</opacity>
+</stylers>
+<stylers>
+  <zoom>1</zoom>
+  <color>#cdd4d5</color>
+  <opacity>0.1</opacity>
+</stylers>
+<stylers>
+  <zoom>2</zoom>
+  <color>#cdd4d5</color>
+  <opacity>0.1</opacity>
+</stylers>
+<stylers>
+  <zoom>3</zoom>
+  <color>#cdd4d5</color>
+  <opacity>0.1</opacity>
+</stylers>
+<stylers>
+  <zoom>4</zoom>
+  <color>#cdd4d5</color>
+  <opacity>0.1</opacity>
+</stylers>
+<stylers>
+  <zoom>5</zoom>
+  <color>#cdd4d5</color>
+  <opacity>0.1</opacity>
+</stylers>
+<stylers>
+  <zoom>6</zoom>
+  <color>#cdd4d5</color>
+  <opacity>0.2</opacity>
+</stylers>
+<stylers>
+  <zoom>7</zoom>
+  <color>#cdd4d5</color>
+  <opacity>0.3</opacity>
+</stylers>
+<stylers>
+  <zoom>8</zoom>
+  <color>#cdd4d5</color>
+  <opacity>0.4</opacity>
+</stylers>
+<stylers>
+  <zoom>9</zoom>
+  <color>#cdd4d5</color>
+  <opacity>0.6</opacity>
+</stylers>
+<stylers>
+  <zoom>10</zoom>
+  <color>#cdd4d5</color>
+  <opacity>0.8</opacity>
+</stylers>
+<stylers>
+  <zoom>11</zoom>
+  <color>#cdd4d5</color>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>12</zoom>
+  <color>#cdd4d5</color>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>13</zoom>
+  <color>#cdd4d5</color>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>14</zoom>
+  <color>#d2d9da</color>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>15</zoom>
+  <color>#d8dedf</color>
+  <opacity>1</opacity>
+</stylers>
+<stylers>
+  <zoom>16</zoom>
+  <color>#d8dedf</color>
+  <opacity>0.7</opacity>
+</stylers>
+<stylers>
+  <zoom>17</zoom>
+  <color>#d8dedf</color>
+  <opacity>0.7</opacity>
+</stylers>
+<stylers>
+  <zoom>18</zoom>
+  <color>#d8dedf</color>
+  <opacity>0.7</opacity>
+</stylers>
+<stylers>
+  <zoom>19</zoom>
+  <color>#d8dedf</color>
+  <opacity>0.7</opacity>
+</stylers>
+<stylers>
+  <zoom>20</zoom>
+  <color>#d8dedf</color>
+  <opacity>0.7</opacity>
+</stylers>
+<stylers>
+  <zoom>21</zoom>
+  <color>#d8dedf</color>
+  <opacity>0.7</opacity>
+</stylers>
+</9>
+<10>
+  <tags>cemetery</tags>
+  <elements>geometry</elements>
+  <stylers>
+    <zoom>0</zoom>
+    <color>#cdd4d5</color>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <color>#cdd4d5</color>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <color>#cdd4d5</color>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <color>#cdd4d5</color>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <color>#cdd4d5</color>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <color>#cdd4d5</color>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <color>#cdd4d5</color>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <color>#cdd4d5</color>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <color>#cdd4d5</color>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <color>#cdd4d5</color>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <color>#cdd4d5</color>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <color>#cdd4d5</color>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <color>#cdd4d5</color>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <color>#cdd4d5</color>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <color>#d2d9da</color>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <color>#d8dedf</color>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <color>#d8dedf</color>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <color>#d8dedf</color>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <color>#d8dedf</color>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <color>#d8dedf</color>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <color>#d8dedf</color>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <color>#d8dedf</color>
+  </stylers>
+</10>
+<11>
+  <tags>sports_ground</tags>
+  <elements>geometry</elements>
+  <stylers>
+    <zoom>0</zoom>
+    <color>#c0c8c9</color>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <color>#c0c8c9</color>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <color>#c0c8c9</color>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <color>#c0c8c9</color>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <color>#c0c8c9</color>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <color>#c0c8c9</color>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <color>#c0c8c9</color>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <color>#c0c8c9</color>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <color>#c0c8c9</color>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <color>#c0c8c9</color>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <color>#c0c8c9</color>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <color>#c0c8c9</color>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <color>#c0c8c9</color>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <color>#c0c8c9</color>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <color>#c5cdcd</color>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <color>#cbd2d2</color>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <color>#ccd3d3</color>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <color>#cdd3d4</color>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <color>#cdd4d4</color>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <color>#ced5d5</color>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <color>#cfd5d6</color>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <color>#d0d6d7</color>
+    <opacity>1</opacity>
+  </stylers>
+</11>
+<12>
+  <tags>terrain</tags>
+  <elements>geometry</elements>
+  <stylers>
+    <hue>#e6eaea</hue>
+  </stylers>
+  <stylers>
+    <zoom>0</zoom>
+    <opacity>0.3</opacity>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <opacity>0.3</opacity>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <opacity>0.3</opacity>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <opacity>0.3</opacity>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <opacity>0.3</opacity>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <opacity>0.35</opacity>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <opacity>0.4</opacity>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <opacity>0.6</opacity>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <opacity>0.8</opacity>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <opacity>0.9</opacity>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <opacity>1</opacity>
+  </stylers>
+</12>
+<13>
+  <tags>geographic_line</tags>
+  <elements>geometry</elements>
+  <stylers>
+    <color>#798b8b</color>
+  </stylers>
+</13>
+<14>
+  <tags>land</tags>
+  <elements>geometry</elements>
+  <stylers>
+    <zoom>0</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <color>#e9ecec</color>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <color>#ebeeee</color>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <color>#eef1f1</color>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <color>#f1f3f3</color>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <color>#f1f3f3</color>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <color>#f1f3f3</color>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <color>#f1f3f3</color>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <color>#f1f3f3</color>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <color>#f1f3f3</color>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <color>#f4f5f5</color>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <color>#f7f8f8</color>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <color>#f7f8f8</color>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <color>#f8f9f9</color>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <color>#f8f9f9</color>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <color>#f8f9f9</color>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <color>#f9fafa</color>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <color>#f9fafa</color>
+  </stylers>
+</14>
+<15>
+  <tags>residential</tags>
+  <elements>geometry</elements>
+  <stylers>
+    <zoom>0</zoom>
+    <color>#e6eaea</color>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <color>#e6eaea</color>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <color>#e6eaea</color>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <color>#e6eaea</color>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <color>#e6eaea</color>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <color>#e6eaea</color>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <color>#e6eaea</color>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <color>#e6eaea</color>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <color>#e6eaea</color>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <color>#e6eaea</color>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <color>#e6eaea</color>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <color>#e6eaea</color>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <color>#e6eaea</color>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <color>#e6eaea</color>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <color>#ebeeee</color>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <color>#f1f3f3</color>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <color>#f2f4f4</color>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <color>#f3f5f5</color>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <color>#f4f5f5</color>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <color>#f5f6f6</color>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <color>#f6f7f7</color>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <color>#f7f8f8</color>
+    <opacity>1</opacity>
+  </stylers>
+</15>
+<16>
+  <tags>locality</tags>
+  <elements>geometry</elements>
+  <stylers>
+    <zoom>0</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <color>#ebeeee</color>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <color>#f1f3f3</color>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <color>#f2f4f4</color>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <color>#f3f5f5</color>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <color>#f4f5f5</color>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <color>#f5f6f6</color>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <color>#f6f7f7</color>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <color>#f7f8f8</color>
+  </stylers>
+</16>
+<17>
+  <tags>
+    <any>structure</any>
+    <none>building</none>
+    <none>fence</none>
+  </tags>
+  <elements>geometry</elements>
+  <stylers>
+    <opacity>0.9</opacity>
+  </stylers>
+  <stylers>
+    <zoom>0</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <color>#ebeeee</color>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <color>#f1f3f3</color>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <color>#f2f4f4</color>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <color>#f3f5f5</color>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <color>#f4f5f5</color>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <color>#f5f6f6</color>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <color>#f6f7f7</color>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <color>#f7f8f8</color>
+  </stylers>
+</17>
+<18>
+  <tags>building</tags>
+  <elements>geometry.fill</elements>
+  <stylers>
+    <color>#d9dede</color>
+  </stylers>
+  <stylers>
+    <zoom>0</zoom>
+    <opacity>0.7</opacity>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <opacity>0.7</opacity>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <opacity>0.7</opacity>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <opacity>0.7</opacity>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <opacity>0.7</opacity>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <opacity>0.7</opacity>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <opacity>0.7</opacity>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <opacity>0.7</opacity>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <opacity>0.7</opacity>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <opacity>0.7</opacity>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <opacity>0.7</opacity>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <opacity>0.7</opacity>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <opacity>0.7</opacity>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <opacity>0.7</opacity>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <opacity>0.7</opacity>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <opacity>0.7</opacity>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <opacity>0.9</opacity>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <opacity>0.6</opacity>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <opacity>0.6</opacity>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <opacity>0.6</opacity>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <opacity>0.6</opacity>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <opacity>0.6</opacity>
+  </stylers>
+</18>
+<19>
+  <tags>building</tags>
+  <elements>geometry.outline</elements>
+  <stylers>
+    <color>#c3cbcb</color>
+  </stylers>
+  <stylers>
+    <zoom>0</zoom>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <opacity>1</opacity>
+  </stylers>
+</19>
+<20>
+  <tags>
+    <any>urban_area</any>
+    <none>residential</none>
+    <none>industrial</none>
+    <none>cemetery</none>
+    <none>park</none>
+    <none>medical</none>
+    <none>sports_ground</none>
+    <none>beach</none>
+    <none>construction_site</none>
+  </tags>
+  <elements>geometry</elements>
+  <stylers>
+    <zoom>0</zoom>
+    <color>#dce0e0</color>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <color>#dce0e0</color>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <color>#dce0e0</color>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <color>#dce0e0</color>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <color>#dce0e0</color>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <color>#dce0e0</color>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <color>#dce0e0</color>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <color>#dce0e0</color>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <color>#dce0e0</color>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <color>#dce0e0</color>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <color>#dce0e0</color>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <color>#dce0e0</color>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <color>#dce0e0</color>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <color>#dce0e0</color>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <color>#e2e6e6</color>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <color>#e9ecec</color>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <color>#f0f2f2</color>
+    <opacity>0.67</opacity>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <color>#f7f8f8</color>
+    <opacity>0.33</opacity>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <color>#f7f8f8</color>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <color>#f7f8f8</color>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <color>#f7f8f8</color>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <color>#f7f8f8</color>
+    <opacity>0</opacity>
+  </stylers>
+</20>
+<21>
+  <tags>poi</tags>
+  <elements>label.icon</elements>
+  <stylers>
+    <color>#667475</color>
+  </stylers>
+  <stylers>
+    <secondary-color>#ffffff</secondary-color>
+  </stylers>
+  <stylers>
+    <tertiary-color>#ffffff</tertiary-color>
+  </stylers>
+</21>
+<22>
+  <tags>poi</tags>
+  <elements>label.text.fill</elements>
+  <stylers>
+    <color>#475152</color>
+  </stylers>
+</22>
+<23>
+  <tags>poi</tags>
+  <elements>label.text.outline</elements>
+  <stylers>
+    <color>#ffffff</color>
+  </stylers>
+  <stylers>
+    <opacity>0.5</opacity>
+  </stylers>
+</23>
+<24>
+  <tags>outdoor</tags>
+  <elements>label.icon</elements>
+  <stylers>
+    <color>#667475</color>
+  </stylers>
+  <stylers>
+    <secondary-color>#ffffff</secondary-color>
+  </stylers>
+  <stylers>
+    <tertiary-color>#ffffff</tertiary-color>
+  </stylers>
+</24>
+<25>
+  <tags>outdoor</tags>
+  <elements>label.text.fill</elements>
+  <stylers>
+    <color>#475152</color>
+  </stylers>
+</25>
+<26>
+  <tags>outdoor</tags>
+  <elements>label.text.outline</elements>
+  <stylers>
+    <color>#ffffff</color>
+  </stylers>
+  <stylers>
+    <opacity>0.5</opacity>
+  </stylers>
+</26>
+<27>
+  <tags>park</tags>
+  <elements>label.icon</elements>
+  <stylers>
+    <color>#667475</color>
+  </stylers>
+  <stylers>
+    <secondary-color>#ffffff</secondary-color>
+  </stylers>
+  <stylers>
+    <tertiary-color>#ffffff</tertiary-color>
+  </stylers>
+</27>
+<28>
+  <tags>park</tags>
+  <elements>label.text.fill</elements>
+  <stylers>
+    <color>#475152</color>
+  </stylers>
+</28>
+<29>
+  <tags>park</tags>
+  <elements>label.text.outline</elements>
+  <stylers>
+    <color>#ffffff</color>
+  </stylers>
+  <stylers>
+    <opacity>0.5</opacity>
+  </stylers>
+</29>
+<30>
+  <tags>cemetery</tags>
+  <elements>label.icon</elements>
+  <stylers>
+    <color>#667475</color>
+  </stylers>
+  <stylers>
+    <secondary-color>#ffffff</secondary-color>
+  </stylers>
+  <stylers>
+    <tertiary-color>#ffffff</tertiary-color>
+  </stylers>
+</30>
+<31>
+  <tags>cemetery</tags>
+  <elements>label.text.fill</elements>
+  <stylers>
+    <color>#475152</color>
+  </stylers>
+</31>
+<32>
+  <tags>cemetery</tags>
+  <elements>label.text.outline</elements>
+  <stylers>
+    <color>#ffffff</color>
+  </stylers>
+  <stylers>
+    <opacity>0.5</opacity>
+  </stylers>
+</32>
+<33>
+  <tags>beach</tags>
+  <elements>label.icon</elements>
+  <stylers>
+    <color>#667475</color>
+  </stylers>
+  <stylers>
+    <secondary-color>#ffffff</secondary-color>
+  </stylers>
+  <stylers>
+    <tertiary-color>#ffffff</tertiary-color>
+  </stylers>
+</33>
+<34>
+  <tags>beach</tags>
+  <elements>label.text.fill</elements>
+  <stylers>
+    <color>#475152</color>
+  </stylers>
+</34>
+<35>
+  <tags>beach</tags>
+  <elements>label.text.outline</elements>
+  <stylers>
+    <color>#ffffff</color>
+  </stylers>
+  <stylers>
+    <opacity>0.5</opacity>
+  </stylers>
+</35>
+<36>
+  <tags>medical</tags>
+  <elements>label.icon</elements>
+  <stylers>
+    <color>#667475</color>
+  </stylers>
+  <stylers>
+    <secondary-color>#ffffff</secondary-color>
+  </stylers>
+  <stylers>
+    <tertiary-color>#ffffff</tertiary-color>
+  </stylers>
+</36>
+<37>
+  <tags>medical</tags>
+  <elements>label.text.fill</elements>
+  <stylers>
+    <color>#475152</color>
+  </stylers>
+</37>
+<38>
+  <tags>medical</tags>
+  <elements>label.text.outline</elements>
+  <stylers>
+    <color>#ffffff</color>
+  </stylers>
+  <stylers>
+    <opacity>0.5</opacity>
+  </stylers>
+</38>
+<39>
+  <tags>shopping</tags>
+  <elements>label.icon</elements>
+  <stylers>
+    <color>#667475</color>
+  </stylers>
+  <stylers>
+    <secondary-color>#ffffff</secondary-color>
+  </stylers>
+  <stylers>
+    <tertiary-color>#ffffff</tertiary-color>
+  </stylers>
+</39>
+<40>
+  <tags>shopping</tags>
+  <elements>label.text.fill</elements>
+  <stylers>
+    <color>#475152</color>
+  </stylers>
+</40>
+<41>
+  <tags>shopping</tags>
+  <elements>label.text.outline</elements>
+  <stylers>
+    <color>#ffffff</color>
+  </stylers>
+  <stylers>
+    <opacity>0.5</opacity>
+  </stylers>
+</41>
+<42>
+  <tags>commercial_services</tags>
+  <elements>label.icon</elements>
+  <stylers>
+    <color>#667475</color>
+  </stylers>
+  <stylers>
+    <secondary-color>#ffffff</secondary-color>
+  </stylers>
+  <stylers>
+    <tertiary-color>#ffffff</tertiary-color>
+  </stylers>
+</42>
+<43>
+  <tags>commercial_services</tags>
+  <elements>label.text.fill</elements>
+  <stylers>
+    <color>#475152</color>
+  </stylers>
+</43>
+<44>
+  <tags>commercial_services</tags>
+  <elements>label.text.outline</elements>
+  <stylers>
+    <color>#ffffff</color>
+  </stylers>
+  <stylers>
+    <opacity>0.5</opacity>
+  </stylers>
+</44>
+<45>
+  <tags>food_and_drink</tags>
+  <elements>label.icon</elements>
+  <stylers>
+    <color>#667475</color>
+  </stylers>
+  <stylers>
+    <secondary-color>#ffffff</secondary-color>
+  </stylers>
+  <stylers>
+    <tertiary-color>#ffffff</tertiary-color>
+  </stylers>
+</45>
+<46>
+  <tags>food_and_drink</tags>
+  <elements>label.text.fill</elements>
+  <stylers>
+    <color>#475152</color>
+  </stylers>
+</46>
+<47>
+  <tags>food_and_drink</tags>
+  <elements>label.text.outline</elements>
+  <stylers>
+    <color>#ffffff</color>
+  </stylers>
+  <stylers>
+    <opacity>0.5</opacity>
+  </stylers>
+</47>
+<48>
+  <tags>road</tags>
+  <elements>label.icon</elements>
+  <types>point</types>
+  <stylers>
+    <color>#667475</color>
+  </stylers>
+  <stylers>
+    <secondary-color>#ffffff</secondary-color>
+  </stylers>
+  <stylers>
+    <tertiary-color>#ffffff</tertiary-color>
+  </stylers>
+</48>
+<49>
+  <tags>road</tags>
+  <elements>label.text.fill</elements>
+  <types>point</types>
+  <stylers>
+    <color>#ffffff</color>
+  </stylers>
+</49>
+<50>
+  <tags>entrance</tags>
+  <elements>label.icon</elements>
+  <stylers>
+    <color>#667475</color>
+  </stylers>
+  <stylers>
+    <secondary-color>#ffffff</secondary-color>
+  </stylers>
+  <stylers>
+    <hue>#667475</hue>
+  </stylers>
+</50>
+<51>
+  <tags>locality</tags>
+  <elements>label.icon</elements>
+  <stylers>
+    <color>#667475</color>
+  </stylers>
+  <stylers>
+    <secondary-color>#ffffff</secondary-color>
+  </stylers>
+</51>
+<52>
+  <tags>country</tags>
+  <elements>label.text.fill</elements>
+  <stylers>
+    <opacity>0.8</opacity>
+  </stylers>
+  <stylers>
+    <color>#6b7a7b</color>
+  </stylers>
+</52>
+<53>
+  <tags>country</tags>
+  <elements>label.text.outline</elements>
+  <stylers>
+    <color>#ffffff</color>
+  </stylers>
+  <stylers>
+    <opacity>0.5</opacity>
+  </stylers>
+</53>
+<54>
+  <tags>region</tags>
+  <elements>label.text.fill</elements>
+  <stylers>
+    <color>#6b7a7b</color>
+  </stylers>
+  <stylers>
+    <opacity>0.8</opacity>
+  </stylers>
+</54>
+<55>
+  <tags>region</tags>
+  <elements>label.text.outline</elements>
+  <stylers>
+    <color>#ffffff</color>
+  </stylers>
+  <stylers>
+    <opacity>0.5</opacity>
+  </stylers>
+</55>
+<56>
+  <tags>district</tags>
+  <elements>label.text.fill</elements>
+  <stylers>
+    <color>#6b7a7b</color>
+  </stylers>
+  <stylers>
+    <opacity>0.8</opacity>
+  </stylers>
+</56>
+<57>
+  <tags>district</tags>
+  <elements>label.text.outline</elements>
+  <stylers>
+    <color>#ffffff</color>
+  </stylers>
+  <stylers>
+    <opacity>0.5</opacity>
+  </stylers>
+</57>
+<58>
+  <tags>
+    <any>admin</any>
+    <none>country</none>
+    <none>region</none>
+    <none>locality</none>
+    <none>district</none>
+    <none>address</none>
+  </tags>
+  <elements>label.text.fill</elements>
+  <stylers>
+    <color>#6b7a7b</color>
+  </stylers>
+</58>
+<59>
+  <tags>
+    <any>admin</any>
+    <none>country</none>
+    <none>region</none>
+    <none>locality</none>
+    <none>district</none>
+    <none>address</none>
+  </tags>
+  <elements>label.text.outline</elements>
+  <stylers>
+    <color>#ffffff</color>
+  </stylers>
+  <stylers>
+    <opacity>0.5</opacity>
+  </stylers>
+</59>
+<60>
+  <tags>locality</tags>
+  <elements>label.text.fill</elements>
+  <stylers>
+    <zoom>0</zoom>
+    <color>#475152</color>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <color>#475152</color>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <color>#475152</color>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <color>#475152</color>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <color>#475152</color>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <color>#454f50</color>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <color>#434c4d</color>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <color>#414a4b</color>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <color>#3f4849</color>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <color>#3d4546</color>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <color>#3b4344</color>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <color>#3b4344</color>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <color>#3b4344</color>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <color>#3b4344</color>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <color>#3b4344</color>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <color>#3b4344</color>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <color>#3b4344</color>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <color>#3b4344</color>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <color>#3b4344</color>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <color>#3b4344</color>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <color>#3b4344</color>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <color>#3b4344</color>
+  </stylers>
+</60>
+<61>
+  <tags>locality</tags>
+  <elements>label.text.outline</elements>
+  <stylers>
+    <color>#ffffff</color>
+  </stylers>
+  <stylers>
+    <opacity>0.5</opacity>
+  </stylers>
+</61>
+<62>
+  <tags>road</tags>
+  <elements>label.text.fill</elements>
+  <types>polyline</types>
+  <stylers>
+    <color>#535f5f</color>
+  </stylers>
+</62>
+<63>
+  <tags>road</tags>
+  <elements>label.text.outline</elements>
+  <types>polyline</types>
+  <stylers>
+    <color>#ffffff</color>
+  </stylers>
+  <stylers>
+    <opacity>0.5</opacity>
+  </stylers>
+</63>
+<64>
+  <tags>road</tags>
+  <elements>geometry.fill.pattern</elements>
+  <types>polyline</types>
+  <stylers>
+    <scale>1</scale>
+  </stylers>
+  <stylers>
+    <color>#849494</color>
+  </stylers>
+</64>
+<65>
+  <tags>road</tags>
+  <elements>label.text.fill</elements>
+  <types>point</types>
+  <stylers>
+    <color>#ffffff</color>
+  </stylers>
+</65>
+<66>
+  <tags>structure</tags>
+  <elements>label.text.fill</elements>
+  <stylers>
+    <color>#5f6d6d</color>
+  </stylers>
+  <stylers>
+    <opacity>0.5</opacity>
+  </stylers>
+</66>
+<67>
+  <tags>structure</tags>
+  <elements>label.text.outline</elements>
+  <stylers>
+    <color>#ffffff</color>
+  </stylers>
+  <stylers>
+    <opacity>0.5</opacity>
+  </stylers>
+</67>
+<68>
+  <tags>address</tags>
+  <elements>label.text.fill</elements>
+  <stylers>
+    <color>#5f6d6d</color>
+  </stylers>
+  <stylers>
+    <zoom>0</zoom>
+    <opacity>0.9</opacity>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <opacity>0.9</opacity>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <opacity>0.9</opacity>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <opacity>0.9</opacity>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <opacity>0.9</opacity>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <opacity>0.9</opacity>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <opacity>0.9</opacity>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <opacity>0.9</opacity>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <opacity>0.9</opacity>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <opacity>0.9</opacity>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <opacity>0.9</opacity>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <opacity>0.9</opacity>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <opacity>0.9</opacity>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <opacity>0.9</opacity>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <opacity>0.9</opacity>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <opacity>0.9</opacity>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <opacity>0.9</opacity>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <opacity>1</opacity>
+  </stylers>
+</68>
+<69>
+  <tags>address</tags>
+  <elements>label.text.outline</elements>
+  <stylers>
+    <color>#ffffff</color>
+  </stylers>
+  <stylers>
+    <opacity>0.5</opacity>
+  </stylers>
+</69>
+<70>
+  <tags>landscape</tags>
+  <elements>label.text.fill</elements>
+  <stylers>
+    <zoom>0</zoom>
+    <color>#6b7a7b</color>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <color>#6b7a7b</color>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <color>#6b7a7b</color>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <color>#6b7a7b</color>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <color>#5f6d6d</color>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <color>#5f6d6d</color>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <color>#5f6d6d</color>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <color>#5f6d6d</color>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <color>#5f6d6d</color>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <color>#5f6d6d</color>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <color>#5f6d6d</color>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <color>#5f6d6d</color>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <color>#5f6d6d</color>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <color>#5f6d6d</color>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <color>#5f6d6d</color>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <color>#5f6d6d</color>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <color>#5f6d6d</color>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <color>#5f6d6d</color>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <color>#5f6d6d</color>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <color>#5f6d6d</color>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <color>#5f6d6d</color>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <color>#5f6d6d</color>
+    <opacity>0.5</opacity>
+  </stylers>
+</70>
+<71>
+  <tags>landscape</tags>
+  <elements>label.text.outline</elements>
+  <stylers>
+    <color>#ffffff</color>
+  </stylers>
+  <stylers>
+    <zoom>0</zoom>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <opacity>0</opacity>
+  </stylers>
+</71>
+<72>
+  <tags>water</tags>
+  <elements>label.text.fill</elements>
+  <stylers>
+    <color>#5f6c6d</color>
+  </stylers>
+  <stylers>
+    <opacity>0.8</opacity>
+  </stylers>
+</72>
+<73>
+  <tags>water</tags>
+  <elements>label.text.outline</elements>
+  <types>polyline</types>
+  <stylers>
+    <color>#ffffff</color>
+  </stylers>
+  <stylers>
+    <opacity>0.2</opacity>
+  </stylers>
+</73>
+<74>
+  <tags>
+    <any>road_1</any>
+    <none>is_tunnel</none>
+  </tags>
+  <elements>geometry.fill</elements>
+  <stylers>
+    <color>#ffffff</color>
+  </stylers>
+  <stylers>
+    <zoom>0</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <scale>2.97</scale>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <scale>3.19</scale>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <scale>3.53</scale>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <scale>4</scale>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <scale>3.61</scale>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <scale>3.06</scale>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <scale>2.64</scale>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <scale>2.27</scale>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <scale>2.03</scale>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <scale>1.9</scale>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <scale>1.86</scale>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <scale>1.48</scale>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <scale>1.21</scale>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <scale>1.04</scale>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <scale>0.94</scale>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <scale>0.9</scale>
+  </stylers>
+</74>
+<75>
+  <tags>
+    <any>road_1</any>
+  </tags>
+  <elements>geometry.outline</elements>
+  <stylers>
+    <zoom>0</zoom>
+    <color>#00000000</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <color>#00000000</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <color>#00000000</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <color>#00000000</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <color>#00000000</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <color>#00000000</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <color>#00000000</color>
+    <scale>3.05</scale>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <color>#00000000</color>
+    <scale>3.05</scale>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <color>#e0e5e5</color>
+    <scale>3.15</scale>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <color>#e6eaea</color>
+    <scale>3.37</scale>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <color>#e6eaea</color>
+    <scale>3.36</scale>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <color>#e6eaea</color>
+    <scale>3.17</scale>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <color>#e6eaea</color>
+    <scale>3</scale>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <color>#e6eaea</color>
+    <scale>2.8</scale>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <color>#ecefef</color>
+    <scale>2.66</scale>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <color>#ecefef</color>
+    <scale>2.61</scale>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <color>#eef1f1</color>
+    <scale>2.64</scale>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <color>#f0f2f2</color>
+    <scale>2.14</scale>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <color>#f2f4f4</color>
+    <scale>1.79</scale>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <color>#f4f6f6</color>
+    <scale>1.55</scale>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <color>#f5f7f7</color>
+    <scale>1.41</scale>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <color>#f7f8f8</color>
+    <scale>1.35</scale>
+  </stylers>
+</75>
+<76>
+  <tags>
+    <any>road_2</any>
+    <none>is_tunnel</none>
+  </tags>
+  <elements>geometry.fill</elements>
+  <stylers>
+    <color>#ffffff</color>
+  </stylers>
+  <stylers>
+    <zoom>0</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <scale>2.97</scale>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <scale>3.19</scale>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <scale>3.53</scale>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <scale>4</scale>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <scale>3.61</scale>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <scale>3.06</scale>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <scale>2.64</scale>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <scale>2.27</scale>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <scale>2.03</scale>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <scale>1.9</scale>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <scale>1.86</scale>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <scale>1.48</scale>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <scale>1.21</scale>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <scale>1.04</scale>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <scale>0.94</scale>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <scale>0.9</scale>
+  </stylers>
+</76>
+<77>
+  <tags>
+    <any>road_2</any>
+  </tags>
+  <elements>geometry.outline</elements>
+  <stylers>
+    <zoom>0</zoom>
+    <color>#00000000</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <color>#00000000</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <color>#00000000</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <color>#00000000</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <color>#00000000</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <color>#00000000</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <color>#00000000</color>
+    <scale>3.05</scale>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <color>#00000000</color>
+    <scale>3.05</scale>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <color>#e0e5e5</color>
+    <scale>3.15</scale>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <color>#e6eaea</color>
+    <scale>3.37</scale>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <color>#e6eaea</color>
+    <scale>3.36</scale>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <color>#e6eaea</color>
+    <scale>3.17</scale>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <color>#e6eaea</color>
+    <scale>3</scale>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <color>#e6eaea</color>
+    <scale>2.8</scale>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <color>#ecefef</color>
+    <scale>2.66</scale>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <color>#ecefef</color>
+    <scale>2.61</scale>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <color>#eef1f1</color>
+    <scale>2.64</scale>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <color>#f0f2f2</color>
+    <scale>2.14</scale>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <color>#f2f4f4</color>
+    <scale>1.79</scale>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <color>#f4f6f6</color>
+    <scale>1.55</scale>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <color>#f5f7f7</color>
+    <scale>1.41</scale>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <color>#f7f8f8</color>
+    <scale>1.35</scale>
+  </stylers>
+</77>
+<78>
+  <tags>
+    <any>road_3</any>
+    <none>is_tunnel</none>
+  </tags>
+  <elements>geometry.fill</elements>
+  <stylers>
+    <color>#ffffff</color>
+  </stylers>
+  <stylers>
+    <zoom>0</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <scale>2.51</scale>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <scale>2.62</scale>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <scale>1.68</scale>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <scale>1.67</scale>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <scale>1.38</scale>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <scale>1.19</scale>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <scale>1.08</scale>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <scale>1.04</scale>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <scale>0.91</scale>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <scale>0.84</scale>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <scale>0.82</scale>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <scale>0.84</scale>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <scale>0.9</scale>
+  </stylers>
+</78>
+<79>
+  <tags>
+    <any>road_3</any>
+  </tags>
+  <elements>geometry.outline</elements>
+  <stylers>
+    <zoom>0</zoom>
+    <color>#ffffff</color>
+    <scale>1.6</scale>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <color>#ffffff</color>
+    <scale>1.6</scale>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <color>#ffffff</color>
+    <scale>1.6</scale>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <color>#ffffff</color>
+    <scale>1.6</scale>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <color>#ffffff</color>
+    <scale>1.6</scale>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <color>#ffffff</color>
+    <scale>1.6</scale>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <color>#ffffff</color>
+    <scale>1.6</scale>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <color>#ffffff</color>
+    <scale>1.6</scale>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <color>#ffffff</color>
+    <scale>1.29</scale>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <color>#e6eaea</color>
+    <scale>4.21</scale>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <color>#e6eaea</color>
+    <scale>2.74</scale>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <color>#e6eaea</color>
+    <scale>2.04</scale>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <color>#e6eaea</color>
+    <scale>2.13</scale>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <color>#e6eaea</color>
+    <scale>1.88</scale>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <color>#ecefef</color>
+    <scale>1.7</scale>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <color>#ecefef</color>
+    <scale>1.59</scale>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <color>#eef1f1</color>
+    <scale>1.55</scale>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <color>#f0f2f2</color>
+    <scale>1.37</scale>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <color>#f2f4f4</color>
+    <scale>1.27</scale>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <color>#f4f6f6</color>
+    <scale>1.23</scale>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <color>#f5f7f7</color>
+    <scale>1.26</scale>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <color>#f7f8f8</color>
+    <scale>1.35</scale>
+  </stylers>
+</79>
+<80>
+  <tags>
+    <any>road_4</any>
+    <none>is_tunnel</none>
+  </tags>
+  <elements>geometry.fill</elements>
+  <stylers>
+    <color>#ffffff</color>
+  </stylers>
+  <stylers>
+    <zoom>0</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <scale>1.69</scale>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <scale>1.26</scale>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <scale>1.41</scale>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <scale>1.19</scale>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <scale>1.04</scale>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <scale>0.97</scale>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <scale>1.15</scale>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <scale>0.99</scale>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <scale>0.89</scale>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <scale>0.85</scale>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <scale>0.85</scale>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <scale>0.9</scale>
+  </stylers>
+</80>
+<81>
+  <tags>
+    <any>road_4</any>
+  </tags>
+  <elements>geometry.outline</elements>
+  <stylers>
+    <zoom>0</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <color>#ffffff</color>
+    <scale>1.12</scale>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <color>#e6eaea</color>
+    <scale>1.9</scale>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <color>#e6eaea</color>
+    <scale>1.62</scale>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <color>#e6eaea</color>
+    <scale>1.83</scale>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <color>#e6eaea</color>
+    <scale>1.64</scale>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <color>#ecefef</color>
+    <scale>1.51</scale>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <color>#ecefef</color>
+    <scale>1.44</scale>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <color>#eef1f1</color>
+    <scale>1.69</scale>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <color>#f0f2f2</color>
+    <scale>1.47</scale>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <color>#f2f4f4</color>
+    <scale>1.34</scale>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <color>#f4f6f6</color>
+    <scale>1.28</scale>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <color>#f5f7f7</color>
+    <scale>1.28</scale>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <color>#f7f8f8</color>
+    <scale>1.34</scale>
+  </stylers>
+</81>
+<82>
+  <tags>
+    <any>road_5</any>
+    <none>is_tunnel</none>
+  </tags>
+  <elements>geometry.fill</elements>
+  <stylers>
+    <color>#ffffff</color>
+  </stylers>
+  <stylers>
+    <zoom>0</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <scale>1.25</scale>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <scale>0.95</scale>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <scale>0.81</scale>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <scale>0.95</scale>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <scale>1.1</scale>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <scale>0.93</scale>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <scale>0.85</scale>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <scale>0.82</scale>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <scale>0.84</scale>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <scale>0.9</scale>
+  </stylers>
+</82>
+<83>
+  <tags>
+    <any>road_5</any>
+  </tags>
+  <elements>geometry.outline</elements>
+  <stylers>
+    <zoom>0</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <color>#ffffff</color>
+    <scale>0.62</scale>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <color>#e6eaea</color>
+    <scale>1.61</scale>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <color>#e6eaea</color>
+    <scale>1.36</scale>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <color>#ecefef</color>
+    <scale>1.22</scale>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <color>#ecefef</color>
+    <scale>1.41</scale>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <color>#eef1f1</color>
+    <scale>1.63</scale>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <color>#f0f2f2</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <color>#f2f4f4</color>
+    <scale>1.27</scale>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <color>#f4f6f6</color>
+    <scale>1.23</scale>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <color>#f5f7f7</color>
+    <scale>1.25</scale>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <color>#f7f8f8</color>
+    <scale>1.34</scale>
+  </stylers>
+</83>
+<84>
+  <tags>
+    <any>road_6</any>
+    <none>is_tunnel</none>
+  </tags>
+  <elements>geometry.fill</elements>
+  <stylers>
+    <color>#ffffff</color>
+  </stylers>
+  <stylers>
+    <zoom>0</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <scale>2.25</scale>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <scale>1.27</scale>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <scale>1.25</scale>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <scale>1.31</scale>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <scale>1.04</scale>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <scale>0.9</scale>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <scale>0.85</scale>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <scale>0.85</scale>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <scale>0.9</scale>
+  </stylers>
+</84>
+<85>
+  <tags>
+    <any>road_6</any>
+  </tags>
+  <elements>geometry.outline</elements>
+  <stylers>
+    <zoom>0</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <color>#e6eaea</color>
+    <scale>2.31</scale>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <color>#ecefef</color>
+    <scale>1.7</scale>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <color>#ecefef</color>
+    <scale>1.76</scale>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <color>#eef1f1</color>
+    <scale>1.89</scale>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <color>#f0f2f2</color>
+    <scale>1.55</scale>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <color>#f2f4f4</color>
+    <scale>1.36</scale>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <color>#f4f6f6</color>
+    <scale>1.27</scale>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <color>#f5f7f7</color>
+    <scale>1.27</scale>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <color>#f7f8f8</color>
+    <scale>1.34</scale>
+  </stylers>
+</85>
+<86>
+  <tags>
+    <any>road_7</any>
+    <none>is_tunnel</none>
+  </tags>
+  <elements>geometry.fill</elements>
+  <stylers>
+    <color>#ffffff</color>
+  </stylers>
+  <stylers>
+    <zoom>0</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <scale>0.9</scale>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <scale>0.78</scale>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <scale>0.88</scale>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <scale>0.8</scale>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <scale>0.78</scale>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <scale>0.79</scale>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <scale>0.83</scale>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <scale>0.9</scale>
+  </stylers>
+</86>
+<87>
+  <tags>
+    <any>road_7</any>
+  </tags>
+  <elements>geometry.outline</elements>
+  <stylers>
+    <zoom>0</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <color>#ecefef</color>
+    <scale>1.31</scale>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <color>#ecefef</color>
+    <scale>1.19</scale>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <color>#eef1f1</color>
+    <scale>1.31</scale>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <color>#f0f2f2</color>
+    <scale>1.21</scale>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <color>#f2f4f4</color>
+    <scale>1.17</scale>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <color>#f4f6f6</color>
+    <scale>1.18</scale>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <color>#f5f7f7</color>
+    <scale>1.23</scale>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <color>#f7f8f8</color>
+    <scale>1.33</scale>
+  </stylers>
+</87>
+<88>
+  <tags>
+    <any>road_minor</any>
+    <none>is_tunnel</none>
+  </tags>
+  <elements>geometry.fill</elements>
+  <stylers>
+    <color>#ffffff</color>
+  </stylers>
+  <stylers>
+    <zoom>0</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <scale>0.9</scale>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <scale>0.9</scale>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <scale>0.9</scale>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <scale>0.9</scale>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <scale>0.9</scale>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <scale>0.9</scale>
+  </stylers>
+</88>
+<89>
+  <tags>
+    <any>road_minor</any>
+  </tags>
+  <elements>geometry.outline</elements>
+  <stylers>
+    <zoom>0</zoom>
+    <color>#ffffff</color>
+    <scale>0.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <color>#ffffff</color>
+    <scale>0.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <color>#ffffff</color>
+    <scale>0.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <color>#ffffff</color>
+    <scale>0.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <color>#ffffff</color>
+    <scale>0.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <color>#ffffff</color>
+    <scale>0.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <color>#ffffff</color>
+    <scale>0.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <color>#ffffff</color>
+    <scale>0.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <color>#ffffff</color>
+    <scale>0.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <color>#ffffff</color>
+    <scale>0.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <color>#ffffff</color>
+    <scale>0.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <color>#ffffff</color>
+    <scale>0.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <color>#ffffff</color>
+    <scale>0.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <color>#ffffff</color>
+    <scale>0.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <color>#ecefef</color>
+    <scale>0.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <color>#ecefef</color>
+    <scale>0.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <color>#eef1f1</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <color>#f0f2f2</color>
+    <scale>1.27</scale>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <color>#f2f4f4</color>
+    <scale>1.27</scale>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <color>#f4f6f6</color>
+    <scale>1.29</scale>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <color>#f5f7f7</color>
+    <scale>1.31</scale>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <color>#f7f8f8</color>
+    <scale>1.32</scale>
+  </stylers>
+</89>
+<90>
+  <tags>
+    <any>road_unclassified</any>
+    <none>is_tunnel</none>
+  </tags>
+  <elements>geometry.fill</elements>
+  <stylers>
+    <color>#ffffff</color>
+  </stylers>
+  <stylers>
+    <zoom>0</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <scale>0.9</scale>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <scale>0.9</scale>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <scale>0.9</scale>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <scale>0.9</scale>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <scale>0.9</scale>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <scale>0.9</scale>
+  </stylers>
+</90>
+<91>
+  <tags>
+    <any>road_unclassified</any>
+  </tags>
+  <elements>geometry.outline</elements>
+  <stylers>
+    <zoom>0</zoom>
+    <color>#ffffff</color>
+    <scale>0.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <color>#ffffff</color>
+    <scale>0.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <color>#ffffff</color>
+    <scale>0.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <color>#ffffff</color>
+    <scale>0.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <color>#ffffff</color>
+    <scale>0.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <color>#ffffff</color>
+    <scale>0.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <color>#ffffff</color>
+    <scale>0.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <color>#ffffff</color>
+    <scale>0.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <color>#ffffff</color>
+    <scale>0.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <color>#ffffff</color>
+    <scale>0.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <color>#ffffff</color>
+    <scale>0.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <color>#ffffff</color>
+    <scale>0.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <color>#ffffff</color>
+    <scale>0.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <color>#ffffff</color>
+    <scale>0.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <color>#ecefef</color>
+    <scale>0.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <color>#ecefef</color>
+    <scale>0.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <color>#eef1f1</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <color>#f0f2f2</color>
+    <scale>1.27</scale>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <color>#f2f4f4</color>
+    <scale>1.27</scale>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <color>#f4f6f6</color>
+    <scale>1.29</scale>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <color>#f5f7f7</color>
+    <scale>1.31</scale>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <color>#f7f8f8</color>
+    <scale>1.32</scale>
+  </stylers>
+</91>
+<92>
+  <tags>
+    <all>is_tunnel</all>
+    <none>path</none>
+  </tags>
+  <elements>geometry.fill</elements>
+  <stylers>
+    <zoom>0</zoom>
+    <color>#e0e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <color>#e0e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <color>#e0e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <color>#e0e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <color>#e0e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <color>#e0e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <color>#e0e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <color>#e0e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <color>#e0e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <color>#e0e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <color>#e0e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <color>#e0e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <color>#e0e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <color>#e0e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <color>#ecefef</color>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <color>#edf0f0</color>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <color>#eef0f0</color>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <color>#eef1f1</color>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <color>#eff2f2</color>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <color>#f0f2f2</color>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <color>#f1f3f3</color>
+  </stylers>
+</92>
+<93>
+  <tags>
+    <all>path</all>
+    <none>is_tunnel</none>
+  </tags>
+  <elements>geometry.fill</elements>
+  <stylers>
+    <color>#9da9aa</color>
+  </stylers>
+</93>
+<94>
+  <tags>
+    <all>path</all>
+    <none>is_tunnel</none>
+  </tags>
+  <elements>geometry.outline</elements>
+  <stylers>
+    <opacity>0.7</opacity>
+  </stylers>
+  <stylers>
+    <zoom>0</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <color>#e6eaea</color>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <color>#ebeeee</color>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <color>#f1f3f3</color>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <color>#f2f4f4</color>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <color>#f3f5f5</color>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <color>#f4f5f5</color>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <color>#f5f6f6</color>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <color>#f6f7f7</color>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <color>#f7f8f8</color>
+  </stylers>
+</94>
+<95>
+  <tags>road_construction</tags>
+  <elements>geometry.fill</elements>
+  <stylers>
+    <color>#ffffff</color>
+  </stylers>
+</95>
+<96>
+  <tags>road_construction</tags>
+  <elements>geometry.outline</elements>
+  <stylers>
+    <zoom>0</zoom>
+    <color>#b8c1c1</color>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <color>#b8c1c1</color>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <color>#b8c1c1</color>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <color>#b8c1c1</color>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <color>#b8c1c1</color>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <color>#b8c1c1</color>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <color>#b8c1c1</color>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <color>#b8c1c1</color>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <color>#b8c1c1</color>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <color>#b8c1c1</color>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <color>#b8c1c1</color>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <color>#b8c1c1</color>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <color>#b8c1c1</color>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <color>#b8c1c1</color>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <color>#9da9aa</color>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <color>#b8c1c1</color>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <color>#bcc5c5</color>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <color>#c1c9c9</color>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <color>#c5cdcd</color>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <color>#cad1d1</color>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <color>#ced5d5</color>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <color>#d3d9d9</color>
+  </stylers>
+</96>
+<97>
+  <tags>
+    <any>ferry</any>
+  </tags>
+  <stylers>
+    <color>#929fa0</color>
+  </stylers>
+</97>
+<98>
+  <tags>transit_location</tags>
+  <elements>label.icon</elements>
+  <stylers>
+    <hue>#667475</hue>
+  </stylers>
+  <stylers>
+    <saturation>-0.93</saturation>
+  </stylers>
+</98>
+<99>
+  <tags>transit_location</tags>
+  <elements>label.text.fill</elements>
+  <stylers>
+    <color>#7ab4b8</color>
+  </stylers>
+</99>
+<100>
+  <tags>transit_location</tags>
+  <elements>label.text.outline</elements>
+  <stylers>
+    <color>#ffffff</color>
+  </stylers>
+</100>
+<101>
+  <tags>transit_schema</tags>
+  <elements>geometry.fill</elements>
+  <stylers>
+    <color>#7ab4b8</color>
+  </stylers>
+  <stylers>
+    <scale>0.7</scale>
+  </stylers>
+  <stylers>
+    <zoom>0</zoom>
+    <opacity>0.6</opacity>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <opacity>0.6</opacity>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <opacity>0.6</opacity>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <opacity>0.6</opacity>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <opacity>0.6</opacity>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <opacity>0.6</opacity>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <opacity>0.6</opacity>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <opacity>0.6</opacity>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <opacity>0.6</opacity>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <opacity>0.6</opacity>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <opacity>0.6</opacity>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <opacity>0.6</opacity>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <opacity>0.6</opacity>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <opacity>0.6</opacity>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <opacity>0.6</opacity>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <opacity>0.5</opacity>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <opacity>0.4</opacity>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <opacity>0.4</opacity>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <opacity>0.4</opacity>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <opacity>0.4</opacity>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <opacity>0.4</opacity>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <opacity>0.4</opacity>
+  </stylers>
+</101>
+<102>
+  <tags>transit_schema</tags>
+  <elements>geometry.outline</elements>
+  <stylers>
+    <opacity>0</opacity>
+  </stylers>
+</102>
+<103>
+  <tags>transit_line</tags>
+  <elements>geometry.fill.pattern</elements>
+  <stylers>
+    <color>#a3c0c2</color>
+  </stylers>
+  <stylers>
+    <zoom>0</zoom>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <opacity>1</opacity>
+  </stylers>
+</103>
+<104>
+  <tags>transit_line</tags>
+  <elements>geometry.fill</elements>
+  <stylers>
+    <color>#a3c0c2</color>
+  </stylers>
+  <stylers>
+    <scale>0.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>0</zoom>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <opacity>0</opacity>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <opacity>1</opacity>
+  </stylers>
+</104>
+<105>
+  <tags>water</tags>
+  <elements>geometry</elements>
+  <stylers>
+    <zoom>0</zoom>
+    <color>#adb7b8</color>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <color>#adb7b8</color>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <color>#adb7b8</color>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <color>#adb7b8</color>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <color>#adb7b8</color>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <color>#adb7b8</color>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <color>#adb7b8</color>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <color>#adb7b8</color>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <color>#afb9ba</color>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <color>#b1babb</color>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <color>#b3bcbd</color>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <color>#b4bdbe</color>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <color>#b4bdbe</color>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <color>#b5bebf</color>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <color>#b6bfc0</color>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <color>#b8c0c1</color>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <color>#b9c2c2</color>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <color>#bac3c3</color>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <color>#bcc4c5</color>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <color>#bdc5c6</color>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <color>#bfc7c7</color>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <color>#c0c8c8</color>
+  </stylers>
+</105>
+<106>
+  <tags>water</tags>
+  <elements>geometry</elements>
+  <types>polyline</types>
+  <stylers>
+    <zoom>0</zoom>
+    <opacity>0.4</opacity>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <opacity>0.4</opacity>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <opacity>0.4</opacity>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <opacity>0.4</opacity>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <opacity>0.6</opacity>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <opacity>0.8</opacity>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <opacity>1</opacity>
+  </stylers>
+</106>
+<107>
+  <tags>bathymetry</tags>
+  <elements>geometry</elements>
+  <stylers>
+    <hue>#adb7b8</hue>
+  </stylers>
+</107>
+<108>
+  <tags>
+    <any>industrial</any>
+    <any>construction_site</any>
+  </tags>
+  <elements>geometry</elements>
+  <stylers>
+    <zoom>0</zoom>
+    <color>#e1e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <color>#e1e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <color>#e1e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <color>#e1e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <color>#e1e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <color>#e1e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <color>#e1e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <color>#e1e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <color>#e1e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <color>#e1e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <color>#e1e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <color>#e1e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <color>#e1e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <color>#e1e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <color>#e6e9e9</color>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <color>#eceeee</color>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <color>#edefef</color>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <color>#eef0f0</color>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <color>#eef0f0</color>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <color>#eff1f1</color>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <color>#f0f2f2</color>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <color>#f1f3f3</color>
+  </stylers>
+</108>
+<109>
+  <tags>
+    <any>transit</any>
+    <none>transit_location</none>
+    <none>transit_line</none>
+    <none>transit_schema</none>
+    <none>is_unclassified_transit</none>
+  </tags>
+  <elements>geometry</elements>
+  <stylers>
+    <zoom>0</zoom>
+    <color>#e1e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <color>#e1e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <color>#e1e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <color>#e1e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <color>#e1e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <color>#e1e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <color>#e1e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <color>#e1e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <color>#e1e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <color>#e1e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <color>#e1e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <color>#e1e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <color>#e1e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <color>#e1e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <color>#e6e9e9</color>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <color>#eceeee</color>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <color>#edefef</color>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <color>#eef0f0</color>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <color>#eef0f0</color>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <color>#eff1f1</color>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <color>#f0f2f2</color>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <color>#f1f3f3</color>
+  </stylers>
+</109>
+<110>
+  <tags>fence</tags>
+  <elements>geometry.fill</elements>
+  <stylers>
+    <color>#d6dbdb</color>
+  </stylers>
+  <stylers>
+    <zoom>0</zoom>
+    <opacity>0.75</opacity>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <opacity>0.75</opacity>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <opacity>0.75</opacity>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <opacity>0.75</opacity>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <opacity>0.75</opacity>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <opacity>0.75</opacity>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <opacity>0.75</opacity>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <opacity>0.75</opacity>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <opacity>0.75</opacity>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <opacity>0.75</opacity>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <opacity>0.75</opacity>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <opacity>0.75</opacity>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <opacity>0.75</opacity>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <opacity>0.75</opacity>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <opacity>0.75</opacity>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <opacity>0.75</opacity>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <opacity>0.75</opacity>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <opacity>0.45</opacity>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <opacity>0.45</opacity>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <opacity>0.45</opacity>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <opacity>0.45</opacity>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <opacity>0.45</opacity>
+  </stylers>
+</110>
+<111>
+  <tags>medical</tags>
+  <elements>geometry</elements>
+  <stylers>
+    <zoom>0</zoom>
+    <color>#e1e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <color>#e1e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <color>#e1e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <color>#e1e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <color>#e1e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <color>#e1e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <color>#e1e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <color>#e1e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <color>#e1e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <color>#e1e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <color>#e1e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <color>#e1e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <color>#e1e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <color>#e1e5e5</color>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <color>#e6e9e9</color>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <color>#eceeee</color>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <color>#edefef</color>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <color>#eef0f0</color>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <color>#eef0f0</color>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <color>#eff1f1</color>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <color>#f0f2f2</color>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <color>#f1f3f3</color>
+  </stylers>
+</111>
+<112>
+  <tags>beach</tags>
+  <elements>geometry</elements>
+  <stylers>
+    <zoom>0</zoom>
+    <color>#e1e5e5</color>
+    <opacity>0.3</opacity>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <color>#e1e5e5</color>
+    <opacity>0.3</opacity>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <color>#e1e5e5</color>
+    <opacity>0.3</opacity>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <color>#e1e5e5</color>
+    <opacity>0.3</opacity>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <color>#e1e5e5</color>
+    <opacity>0.3</opacity>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <color>#e1e5e5</color>
+    <opacity>0.3</opacity>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <color>#e1e5e5</color>
+    <opacity>0.3</opacity>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <color>#e1e5e5</color>
+    <opacity>0.3</opacity>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <color>#e1e5e5</color>
+    <opacity>0.3</opacity>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <color>#e1e5e5</color>
+    <opacity>0.3</opacity>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <color>#e1e5e5</color>
+    <opacity>0.3</opacity>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <color>#e1e5e5</color>
+    <opacity>0.3</opacity>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <color>#e1e5e5</color>
+    <opacity>0.3</opacity>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <color>#e1e5e5</color>
+    <opacity>0.65</opacity>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <color>#e6e9e9</color>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <color>#eceeee</color>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <color>#edefef</color>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <color>#eef0f0</color>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <color>#eef0f0</color>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <color>#eff1f1</color>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <color>#f0f2f2</color>
+    <opacity>1</opacity>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <color>#f1f3f3</color>
+    <opacity>1</opacity>
+  </stylers>
+</112>
+<113>
+  <tags>
+    <all>is_tunnel</all>
+    <all>path</all>
+  </tags>
+  <elements>geometry.fill</elements>
+  <stylers>
+    <color>#97a4a5</color>
+  </stylers>
+  <stylers>
+    <opacity>0.3</opacity>
+  </stylers>
+</113>
+<114>
+  <tags>
+    <all>is_tunnel</all>
+    <all>path</all>
+  </tags>
+  <elements>geometry.outline</elements>
+  <stylers>
+    <opacity>0</opacity>
+  </stylers>
+</114>
+<115>
+  <tags>road_limited</tags>
+  <elements>geometry.fill</elements>
+  <stylers>
+    <color>#aab5b5</color>
+  </stylers>
+  <stylers>
+    <zoom>0</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <scale>0</scale>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <scale>0.1</scale>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <scale>0.2</scale>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <scale>0.3</scale>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <scale>0.5</scale>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <scale>0.6</scale>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <scale>0.7</scale>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <scale>0.79</scale>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <scale>0.83</scale>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <scale>0.9</scale>
+  </stylers>
+</115>
+<116>
+  <tags>road_limited</tags>
+  <elements>geometry.outline</elements>
+  <stylers>
+    <zoom>0</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>1</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>2</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>3</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>4</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>5</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>6</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>7</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>8</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>9</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>10</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>11</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>12</zoom>
+    <color>#ffffff</color>
+    <scale>1.4</scale>
+  </stylers>
+  <stylers>
+    <zoom>13</zoom>
+    <color>#ffffff</color>
+    <scale>0.1</scale>
+  </stylers>
+  <stylers>
+    <zoom>14</zoom>
+    <color>#ecefef</color>
+    <scale>0.2</scale>
+  </stylers>
+  <stylers>
+    <zoom>15</zoom>
+    <color>#ecefef</color>
+    <scale>0.3</scale>
+  </stylers>
+  <stylers>
+    <zoom>16</zoom>
+    <color>#eef1f1</color>
+    <scale>0.5</scale>
+  </stylers>
+  <stylers>
+    <zoom>17</zoom>
+    <color>#f0f2f2</color>
+    <scale>0.6</scale>
+  </stylers>
+  <stylers>
+    <zoom>18</zoom>
+    <color>#f2f4f4</color>
+    <scale>0.7</scale>
+  </stylers>
+  <stylers>
+    <zoom>19</zoom>
+    <color>#f4f6f6</color>
+    <scale>1.18</scale>
+  </stylers>
+  <stylers>
+    <zoom>20</zoom>
+    <color>#f5f7f7</color>
+    <scale>1.23</scale>
+  </stylers>
+  <stylers>
+    <zoom>21</zoom>
+    <color>#f7f8f8</color>
+    <scale>1.33</scale>
+  </stylers>
+</116>
+<117>
+  <tags>
+    <any>outdoor</any>
+    <any>park</any>
+    <any>cemetery</any>
+    <any>medical</any>
+  </tags>
+  <elements>label</elements>
+  <stylers>
+    <visibility>off</visibility>
+  </stylers>
+</117>
+<118>
+  <tags>
+    <any>poi</any>
+    <none>outdoor</none>
+    <none>park</none>
+    <none>cemetery</none>
+    <none>medical</none>
+  </tags>
+  <stylers>
+    <visibility>off</visibility>
+  </stylers>
+</118>
+<119>
+  <tags>
+    <any>road</any>
+  </tags>
+  <types>point</types>
+  <stylers>
+    <visibility>off</visibility>
+  </stylers>
+</119>
+<120>
+  <tags>
+    <any>food_and_drink</any>
+    <any>shopping</any>
+    <any>commercial_services</any>
+  </tags>
+  <stylers>
+    <visibility>off</visibility>
+  </stylers>
+</120>
+<121>
+  <tags>
+    <any>traffic_light</any>
+  </tags>
+  <stylers>
+    <visibility>off</visibility>
+  </stylers>
+</121>
+<122>
+  <tags>
+    <any>entrance</any>
+  </tags>
+  <stylers>
+    <visibility>off</visibility>
+  </stylers>
+</122>
+<123>
+  <tags>
+    <any>road</any>
+    <none>road_1</none>
+    <none>road_2</none>
+    <none>road_3</none>
+    <none>road_4</none>
+    <none>road_5</none>
+    <none>road_6</none>
+    <none>road_7</none>
+  </tags>
+  <elements>label.icon</elements>
+  <stylers>
+    <visibility>off</visibility>
+  </stylers>
+</123>
+<124>
+  <tags>
+    <any>road_7</any>
+  </tags>
+  <stylers>
+    <visibility>off</visibility>
+  </stylers>
+</124>
+<125>
+  <tags>
+    <any>road_construction</any>
+    <any>road_minor</any>
+    <any>road_unclassified</any>
+    <any>path</any>
+    <any>road_limited</any>
+  </tags>
+  <stylers>
+    <visibility>off</visibility>
+  </stylers>
+</125>
+<126>
+  <elements>label.text</elements>
+  <tags>
+    <none>poi</none>
+    <none>transit</none>
+  </tags>
+  <stylers>
+    <visibility>off</visibility>
+  </stylers>
+</126>
+<127>
+  <tags>locality</tags>
+  <elements>label</elements>
+  <stylers>
+    <visibility>off</visibility>
+  </stylers>
+</127>
+<128>
+  <tags>
+    <any>region</any>
+    <any>road_1</any>
+    <any>road_2</any>
+    <any>road_3</any>
+    <any>road_4</any>
+  </tags>
+  <elements>label</elements>
+  <stylers>
+    <visibility>off</visibility>
+  </stylers>
+</128>
+<129>
+  <tags>
+    <any>district</any>
+  </tags>
+  <elements>label</elements>
+  <stylers>
+    <visibility>off</visibility>
+  </stylers>
+</129>
+<130>
+  <tags>
+    <any>admin</any>
+    <none>country</none>
+    <none>region</none>
+    <none>locality</none>
+    <none>district</none>
+    <none>address</none>
+  </tags>
+  <elements>label</elements>
+  <stylers>
+    <visibility>off</visibility>
+  </stylers>
+</130>
+<131>
+  <tags>
+    <any>road_5</any>
+    <any>road_6</any>
+  </tags>
+  <elements>label</elements>
+  <stylers>
+    <visibility>off</visibility>
+  </stylers>
+</131>
+<132>
+  <tags>
+    <any>address</any>
+    <any>road_7</any>
+    <any>road_limited</any>
+    <any>road_unclassified</any>
+    <any>road_minor</any>
+    <any>road_construction</any>
+    <any>path</any>
+  </tags>
+  <elements>label</elements>
+  <stylers>
+    <visibility>off</visibility>
+  </stylers>
+</132>
+<133>
+  <tags>
+    <any>landcover</any>
+    <none>vegetation</none>
+  </tags>
+  <stylers>
+    <visibility>off</visibility>
+  </stylers>
+</133>
+</root>

@@ -1,0 +1,16 @@
+.mapWrapper {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.map {
+  width: 800px;
+  height: 600px;
+}
+
+.mapHeader {
+  text-align: center;
+}
